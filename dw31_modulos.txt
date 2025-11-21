@@ -1,6 +1,9 @@
 <<<<<<< HEAD
-Sostenibilidad
-=======
+Base de Datos
+Lenguajes de Marcado
+Programacion
+Digitalizacion
 Entornos de Desarrollo
+Sostenibilidad
 Ingles Tecnico
 >>>>>>> 48d34a633abbf8e3285a82fe77c275e62a479b23
